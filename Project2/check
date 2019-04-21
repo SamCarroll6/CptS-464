@@ -1,0 +1,112 @@
+Launching Publishers...
+Thread Bus11 started
+Thread Bus21 started
+Bus11 published a position message at stop #1 on route Express1 at 00:00:00
+Bus21 published a position message at stop #1 on route Express2 at 00:00:00
+Bus11 published a position message at stop #2 on route Express1 at 00:00:00
+Bus11 published a position message at stop #3 on route Express1 at 00:00:00
+Bus21 published a position message at stop #2 on route Express2 at 00:00:00
+Bus11 published a position message at stop #4 on route Express1 at 00:00:00
+Bus21 published a position message at stop #3 on route Express2 at 00:00:00
+Bus11 published a position message at stop #1 on route Express1 at 00:00:00
+Bus11 published a position message at stop #2 on route Express1 at 00:00:00
+Bus21 published a position message at stop #4 on route Express2 at 00:00:00
+Bus11 published a position message at stop #3 on route Express1 at 00:00:00
+Bus11 published a position message at stop #4 on route Express1 at 00:00:00
+Bus21 published a position message at stop #5 on route Express2 at 00:00:00
+Bus11 published a position message at stop #1 on route Express1 at 00:00:00
+Bus21 published a position message at stop #6 on route Express2 at 00:00:00
+Bus11 published a position message at stop #2 on route Express1 at 00:00:00
+Bus11 published a position message at stop #3 on route Express1 at 00:00:00
+Bus21 published a position message at stop #1 on route Express2 at 00:00:00
+Bus11 published a position message at stop #4 on route Express1 at 00:00:00
+Bus21 had an accident. Should arrive in 10 seconds
+Bus11 published a position message at stop #1 on route Express1 at 00:00:00
+Bus11 published a position message at stop #2 on route Express1 at 00:00:00
+Bus11 published a position message at stop #3 on route Express1 at 00:00:00
+Bus11 had an accident. Should arrive in 10 seconds
+Bus21 published a position message at stop #2 on route Express2 at 00:00:00
+Bus21 published a position message at stop #3 on route Express2 at 00:00:00
+Bus21 published a position message at stop #4 on route Express2 at 00:00:00
+Bus11 published a position message at stop #4 on route Express1 at 00:00:00
+Bus11 published a position message at stop #1 on route Express1 at 00:00:00
+Bus21 published a position message at stop #5 on route Express2 at 00:00:00
+Bus11 published a position message at stop #2 on route Express1 at 00:00:00
+Bus21 published a position message at stop #6 on route Express2 at 00:00:00
+Bus11 published a position message at stop #3 on route Express1 at 00:00:00
+Bus21 had an accident. Should arrive in 10 seconds
+Bus11 published a position message at stop #4 on route Express1 at 00:00:00
+Bus11 published a position message at stop #1 on route Express1 at 00:00:00
+Bus11 published a position message at stop #2 on route Express1 at 00:00:00
+Bus11 published a position message at stop #3 on route Express1 at 00:00:00
+Bus11 published a position message at stop #4 on route Express1 at 00:00:00
+Bus11 published a position message at stop #1 on route Express1 at 00:00:00
+Bus11 published a position message at stop #2 on route Express1 at 00:00:00
+Bus11 published a position message at stop #3 on route Express1 at 00:00:00
+Bus11 published a position message at stop #4 on route Express1 at 00:00:00
+Bus21 published a position message at stop #1 on route Express2 at 00:00:00
+Bus11 published a position message at stop #1 on route Express1 at 00:00:00
+Bus11 published a position message at stop #2 on route Express1 at 00:00:00
+Bus11 had an accident. Should arrive in 10 seconds
+Bus21 published a position message at stop #2 on route Express2 at 00:00:00
+Bus21 published a position message at stop #3 on route Express2 at 00:00:00
+Bus21 published a position message at stop #4 on route Express2 at 00:00:00
+Bus21 published a position message at stop #5 on route Express2 at 00:00:00
+Bus21 had an accident. Should arrive in 10 seconds
+Bus11 published a position message at stop #3 on route Express1 at 00:00:00
+Bus11 published a position message at stop #4 on route Express1 at 00:00:00
+Bus11 published a position message at stop #1 on route Express1 at 00:00:00
+Bus11 published a position message at stop #2 on route Express1 at 00:00:00
+Bus11 published a position message at stop #3 on route Express1 at 00:00:00
+Bus21 published a position message at stop #6 on route Express2 at 00:00:00
+
+
+
+Launching Publishers...
+Thread Bus11 started
+Thread Bus21 started
+P3464_SCARROLL: P3464_SCARROLL: Bus21Bus11 published a position message at stop #1 on route Express2 at 00:00:00
+ published a position message at stop #1 on route Express1 at 00:00:00
+
+
+Bus11 had an accident. Should arrive in 10 seconds
+P3464_SCARROLL: Bus21 published a position message at stop #2 on route Express2 at 00:00:00
+
+
+Bus21 had an accident. Should arrive in 10 seconds
+P3464_SCARROLL: Bus11 published a position message at stop #2 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus21 published a position message at stop #3 on route Express2 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #3 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus21 published a position message at stop #4 on route Express2 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #4 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus21 published a position message at stop #5 on route Express2 at 00:00:00
+
+
+Bus21 had an accident. Should arrive in 10 seconds
+P3464_SCARROLL: Bus11 published a position message at stop #1 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #2 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #3 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #4 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #1 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #2 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #3 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus21 published a position message at stop #6 on route Express2 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #4 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #1 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus21 published a position message at stop #1 on route Express2 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #2 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus21 published a position message at stop #2 on route Express2 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #3 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #4 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus21 published a position message at stop #3 on route Express2 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #1 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #2 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus21 published a position message at stop #4 on route Express2 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #3 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #4 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus21 published a position message at stop #5 on route Express2 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #1 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus21 published a position message at stop #6 on route Express2 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #2 on route Express1 at 00:00:00
+P3464_SCARROLL: Bus21 published a position message at stop #1 on route Express2 at 00:00:00
+P3464_SCARROLL: Bus11 published a position message at stop #3 on route Express1 at 00:00:00

@@ -1,0 +1,28 @@
+Msg subscriber sleeping for 0 sec...
+Msg subscriber sleeping for 0 sec...
+Msg subscriber sleeping for 0 sec...
+Msg subscriber sleeping for 0 sec...
+
+   count: 4
+   sender: "CS464 Project 1 Sam Carroll"
+   message: "Banana"
+
+   count: 8
+   sender: "CS464 Project 1 Sam Carroll"
+   message: "Cherry"
+
+   count: 12
+   sender: "CS464 Project 1 Sam Carroll"
+   message: "Carrots"
+
+   count: 16
+   sender: "CS464 Project 1 Sam Carroll"
+   message: "Pear"
+
+   count: 20
+   sender: "CS464 Project 1 Sam Carroll"
+   message: "Apple"
+
+   count: 23
+   sender: "CS464 Project 1 Sam Carroll"
+   message: "Lentil"

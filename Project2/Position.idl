@@ -1,0 +1,13 @@
+const long Len = 256;
+
+// position.idl 
+struct Position {
+    string<Len> timestamp; 
+    string<Len> route; 
+    string<Len> vehicle;
+    long stopNumber;
+    long numStops;
+    long timeBetweenStops; 
+    string<Len> trafficConditions; 
+    long fillInRatio;
+};

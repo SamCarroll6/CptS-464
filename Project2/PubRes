@@ -1,0 +1,70 @@
+Sams-MacBook-Pro:p2 samcarroll$ ./objs/x64Darwin17clang9.0/PubLauncher 
+
+P3464_SCARROLL: Bus22 published a position message at stop #1 on route Express2 at 23:13:49
+P3464_SCARROLL: Bus21 published a position message at stop #1 on route Express2 at 23:13:49
+P3464_SCARROLL: Bus12 published a position message at stop #1 on route Express1 at 23:13:49
+P3464_SCARROLL: Bus11 published a position message at stop #1 on route Express1 at 23:13:49
+P3464_SCARROLL: Bus12 published a position message at stop #2 on route Express1 at 23:13:51
+P3464_SCARROLL: Bus11 published a position message at stop #2 on route Express1 at 23:13:51
+P3464_SCARROLL: Bus22 published a position message at stop #2 on route Express2 at 23:13:52
+P3464_SCARROLL: Bus21 published a position message at stop #2 on route Express2 at 23:13:52
+P3464_SCARROLL: Bus11 published a position message at stop #3 on route Express1 at 23:13:53
+P3464_SCARROLL: Bus22 published a position message at stop #3 on route Express2 at 23:13:54
+P3464_SCARROLL: Bus12 published a position message at stop #3 on route Express1 at 23:13:54
+P3464_SCARROLL: Bus11 published a position message at stop #4 on route Express1 at 23:13:54
+P3464_SCARROLL: Bus21 published a position message at stop #3 on route Express2 at 23:13:55
+P3464_SCARROLL: Bus12 published a position message at stop #4 on route Express1 at 23:13:56
+P3464_SCARROLL: Bus11 published a position message at stop #1 on route Express1 at 23:13:56
+P3464_SCARROLL: Bus22 published a position message at stop #4 on route Express2 at 23:13:57
+Bus22 published an accident message at stop 4 on route Express2 at 23:13:57
+P3464_SCARROLL: Bus21 published a position message at stop #4 on route Express2 at 23:13:57
+P3464_SCARROLL: Bus12 published a position message at stop #1 on route Express1 at 23:13:57
+P3464_SCARROLL: Bus11 published a position message at stop #2 on route Express1 at 23:13:59
+P3464_SCARROLL: Bus12 published a position message at stop #2 on route Express1 at 23:13:59
+Bus12 published an accident message at stop 2 on route Express1 at 23:13:59
+P3464_SCARROLL: Bus11 published a position message at stop #3 on route Express1 at 23:14:00
+P3464_SCARROLL: Bus21 published a position message at stop #5 on route Express2 at 23:14:00
+P3464_SCARROLL: Bus11 published a position message at stop #4 on route Express1 at 23:14:02
+P3464_SCARROLL: Bus21 published a position message at stop #6 on route Express2 at 23:14:03
+P3464_SCARROLL: Bus11 published a position message at stop #1 on route Express1 at 23:14:04
+P3464_SCARROLL: Bus11 published a position message at stop #2 on route Express1 at 23:14:06
+P3464_SCARROLL: Bus21 published a position message at stop #1 on route Express2 at 23:14:06
+P3464_SCARROLL: Bus11 published a position message at stop #3 on route Express1 at 23:14:07
+P3464_SCARROLL: Bus11 published a position message at stop #4 on route Express1 at 23:14:09
+Bus11 published an accident message at stop 4 on route Express1 at 23:14:09
+P3464_SCARROLL: Bus21 published a position message at stop #2 on route Express2 at 23:14:09
+P3464_SCARROLL: Bus22 published a position message at stop #5 on route Express2 at 23:14:10
+P3464_SCARROLL: Bus21 published a position message at stop #3 on route Express2 at 23:14:11
+P3464_SCARROLL: Bus12 published a position message at stop #3 on route Express1 at 23:14:11
+P3464_SCARROLL: Bus22 published a position message at stop #6 on route Express2 at 23:14:13
+P3464_SCARROLL: Bus12 published a position message at stop #4 on route Express1 at 23:14:13
+P3464_SCARROLL: Bus21 published a position message at stop #4 on route Express2 at 23:14:14
+P3464_SCARROLL: Bus12 published a position message at stop #1 on route Express1 at 23:14:15
+P3464_SCARROLL: Bus22 published a position message at stop #1 on route Express2 at 23:14:16
+P3464_SCARROLL: Bus21 published a position message at stop #5 on route Express2 at 23:14:17
+P3464_SCARROLL: Bus12 published a position message at stop #2 on route Express1 at 23:14:17
+P3464_SCARROLL: Bus12 published a position message at stop #3 on route Express1 at 23:14:19
+P3464_SCARROLL: Bus22 published a position message at stop #2 on route Express2 at 23:14:20
+P3464_SCARROLL: Bus21 published a position message at stop #6 on route Express2 at 23:14:20
+Bus11 has finished it's loops and will now shut down.
+P3464_SCARROLL: Bus12 published a position message at stop #4 on route Express1 at 23:14:21
+Bus12 has finished it's loops and will now shut down.
+P3464_SCARROLL: Bus21 published a position message at stop #1 on route Express2 at 23:14:23
+P3464_SCARROLL: Bus22 published a position message at stop #3 on route Express2 at 23:14:26
+Bus22 published an accident message at stop 3 on route Express2 at 23:14:26
+P3464_SCARROLL: Bus21 published a position message at stop #2 on route Express2 at 23:14:26
+P3464_SCARROLL: Bus21 published a position message at stop #3 on route Express2 at 23:14:29
+P3464_SCARROLL: Bus21 published a position message at stop #4 on route Express2 at 23:14:32
+P3464_SCARROLL: Bus21 published a position message at stop #5 on route Express2 at 23:14:35
+P3464_SCARROLL: Bus21 published a position message at stop #6 on route Express2 at 23:14:37
+P3464_SCARROLL: Bus22 published a position message at stop #4 on route Express2 at 23:14:39
+Bus21 has finished it's loops and will now shut down.
+P3464_SCARROLL: Bus22 published a position message at stop #5 on route Express2 at 23:14:42
+P3464_SCARROLL: Bus22 published a position message at stop #6 on route Express2 at 23:14:45
+P3464_SCARROLL: Bus22 published a position message at stop #1 on route Express2 at 23:14:47
+P3464_SCARROLL: Bus22 published a position message at stop #2 on route Express2 at 23:14:50
+P3464_SCARROLL: Bus22 published a position message at stop #3 on route Express2 at 23:14:52
+P3464_SCARROLL: Bus22 published a position message at stop #4 on route Express2 at 23:14:55
+P3464_SCARROLL: Bus22 published a position message at stop #5 on route Express2 at 23:14:59
+P3464_SCARROLL: Bus22 published a position message at stop #6 on route Express2 at 23:15:02
+Bus22 has finished it's loops and will now shut down.
