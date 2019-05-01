@@ -146,6 +146,18 @@ static int Position_publisher_shutdown(
 
 extern "C" int Position_publisher_main(ThreadPub *val)
 {
+        // The following is the dds code
+    DDS_DomainParticipantFactoryQos factoryQoS;
+    DDSTheParticipantFactory->get_qos(factoryQoS);
+    /* increase max_objects_per_thread as needed.
+    * The default is 1024 (512 for 4.4c and below). */
+    factoryQoS.resource_limits.max_objects_per_thread = 4096;
+    DDSTheParticipantFactory->set_qos(factoryQoS);
+    // DDS_DomainParticipantFactoryQos factoryQos = new DDS_DomainParticipantFactoryQos();
+    // DDS_DomainParticipantFactory->TheParticipantFactory.get_qos(factoryQos);
+    // factoryQos.resource_limits.max_objects_per_thread = 2048;
+    // DDS_DomainParticipantFactory->TheParticipantFactory.set_qos(factoryQos);
+
     DDSDomainParticipant *participant = NULL;
     DDSPublisher *publisher = NULL;
     DDSTopic *topic = NULL;
@@ -159,7 +171,7 @@ extern "C" int Position_publisher_main(ThreadPub *val)
 
     /************************************************/
 
-        DDSDomainParticipant *Aparticipant = NULL;
+    DDSDomainParticipant *Aparticipant = NULL;
     DDSPublisher *Apublisher = NULL;
     DDSTopic *Atopic = NULL;
     DDSDataWriter *Awriter = NULL;
@@ -332,6 +344,7 @@ extern "C" int Position_publisher_main(ThreadPub *val)
     // Sample Count SAM
     /* Main loop */
     //for (count=0; (sample_count == 0) || (count < sample_count); ++count) {
+
 
     int accident;
     int breaker = 0;

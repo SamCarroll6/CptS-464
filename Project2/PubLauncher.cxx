@@ -4,6 +4,8 @@
 
 int main(int argc, char *argv[])
 {
+    std::cout << "MAIN!" << "\n";
+
     srand(time(NULL));
     int domainId = 0;
     int sample_count = 0; // infinite loop
@@ -34,7 +36,6 @@ int main(int argc, char *argv[])
         Bus23
 
     */
-
     while(std::getline(myfile,line))
     { 
         std::string data = line;
@@ -64,20 +65,19 @@ int main(int argc, char *argv[])
             i++;
         }
     }
-
-    for(int s = 0; s < 2; s++)
+    for(int s = 0; s < 3; s++)
     {
         threads[s].start();
     }
-    for(int s = 3; s < 5; s++)
+    for(int s = 3; s < 6; s++)
     {
         threads[s].start();
     }
-    for(int s = 0; s < 2; s++)
+    for(int s = 0; s < 3; s++)
     {
         threads[s].join();
     }
-    for(int s = 3; s < 5; s++)
+    for(int s = 3; s < 6; s++)
     {
         threads[s].join();
     }
