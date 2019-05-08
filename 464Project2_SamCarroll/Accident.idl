@@ -1,0 +1,9 @@
+const long Len1 = 256;
+
+// accident.idl 
+struct Accident {
+    string<Len1> timestamp; 
+    string<Len1> route; 
+    string<Len1> vehicle; 
+    long stopNumber;
+};

@@ -1,0 +1,96 @@
+Sams-MacBook-Pro:p2 samcarroll$ ./objs/x64Darwin17clang9.0/OperatorSubscriber 
+Waiting for the bus...
+
+MessageType     Route   Vehicle   Traffic     Stop#    #Stops    TimeBetweenStops     Fill%      Timestamp         
+Accident  Express1     Bus12                   1                                               12:19:14         
+Position  Express1     Bus11     light         2         4                   1        73       12:19:15         
+Position  Express2     Bus22    normal         2         6                   3        19       12:19:16         
+Position  Express1     Bus11     light         3         4                   1        39       12:19:16         
+Position  Express1     Bus13     light         2         4                   1        68       12:19:16         
+Position  Express1     Bus11    normal         4         4                   2        65       12:19:17         
+Position  Express1     Bus13    normal         3         4                   2        52       12:19:17         
+Position  Express2     Bus21     light         2         6                   2        87       12:19:17         
+Position  Express2     Bus22     light         3         6                   2        78       12:19:19         
+Position  Express1     Bus11    normal         1         4                   2        53       12:19:19         
+Position  Express1     Bus13    normal         4         4                   2        87       12:19:19         
+Position  Express2     Bus21     light         3         6                   1        58       12:19:19         
+Position  Express2     Bus21    normal         4         6                   3        30       12:19:20         
+Position  Express2     Bus22    normal         4         6                   3        43       12:19:21         
+Position  Express1     Bus11    normal         2         4                   2         0       12:19:21         
+Position  Express1     Bus13    normal         1         4                   2         4       12:19:21         
+Position  Express1     Bus11    normal         3         4                   2        38       12:19:23         
+Position  Express1     Bus13     light         2         4                   1        64       12:19:23         
+Position  Express2     Bus21    normal         5         6                   3        29       12:19:23         
+Position  Express2     Bus22    normal         5         6                   3        95       12:19:24         
+Position  Express1     Bus13     heavy         3         4                   2         3       12:19:24         
+Position  Express1     Bus11    normal         4         4                   2        92       12:19:25         
+Position  Express2     Bus23    normal         2         6                   3        25       12:19:26         
+Position  Express1     Bus13    normal         4         4                   2        24       12:19:26         
+Position  Express1     Bus12     light         2         4                   1        92       12:19:26         
+Position  Express2     Bus21    normal         6         6                   3         2       12:19:26         
+Accident  Express2     Bus22                   6                                               12:19:27         
+Position  Express2     Bus22    normal         6         6                   3        79       12:19:27         
+Position  Express1     Bus11     light         1         4                   1        69       12:19:27         
+Accident  Express1     Bus11                   1                                               12:19:27         
+Position  Express1     Bus12     light         3         4                   1        59       12:19:27         
+Position  Express1     Bus13    normal         1         4                   2        11       12:19:28         
+Position  Express1     Bus12     heavy         4         4                   2        93       12:19:28         
+Position  Express2     Bus23    normal         3         6                   3        36       12:19:29         
+Position  Express2     Bus21    normal         1         6                   3        43       12:19:29         
+Position  Express1     Bus13     heavy         2         4                   3        34       12:19:30         
+Position  Express1     Bus12     light         1         4                   1        47       12:19:30         
+Position  Express1     Bus12     light         2         4                   1        51       12:19:31         
+Position  Express2     Bus23    normal         4         6                   3         3       12:19:32         
+Position  Express1     Bus12     heavy         3         4                   2        44       12:19:32         
+Position  Express2     Bus21    normal         2         6                   3        27       12:19:32         
+Accident  Express2     Bus21                   2                                               12:19:32         
+Position  Express1     Bus13    normal         3         4                   2        52       12:19:33         
+Position  Express1     Bus12     light         4         4                   1        71       12:19:34         
+Position  Express2     Bus23    normal         5         6                   3        15       12:19:35         
+Position  Express1     Bus13     light         4         4                   1        32       12:19:35         
+Position  Express1     Bus12     light         1         4                   1        23       12:19:35         
+Position  Express1     Bus12    normal         2         4                   2        13       12:19:36         
+Position  Express2     Bus23     heavy         6         6                   4        71       12:19:38         
+Position  Express1     Bus11    normal         2         4                   2        53       12:19:38         
+Position  Express1     Bus12     light         3         4                   1        73       12:19:38         
+Accident  Express1     Bus12                   3                                               12:19:38         
+Position  Express2     Bus22    normal         1         6                   3        89       12:19:40         
+Accident  Express2     Bus22                   1                                               12:19:40         
+Position  Express1     Bus11     light         3         4                   1        14       12:19:40         
+Position  Express1     Bus11    normal         4         4                   2         1       12:19:41         
+Position  Express2     Bus23    normal         1         6                   3        86       12:19:42         
+Position  Express2     Bus23     light         2         6                   2        40       12:19:45         
+Accident  Express2     Bus23                   2                                               12:19:45         
+Position  Express2     Bus21    normal         3         6                   3        75       12:19:45         
+Position  Express2     Bus21    normal         4         6                   3        50       12:19:48         
+Position  Express1     Bus12     light         4         4                   1        41       12:19:49         
+Position  Express2     Bus21    normal         5         6                   3        68       12:19:51         
+Position  Express2     Bus22    normal         2         6                   3        39       12:19:53         
+Position  Express2     Bus21    normal         6         6                   3        44       12:19:54         
+Position  Express2     Bus22    normal         3         6                   3        17       12:19:56         
+Position  Express2     Bus23    normal         3         6                   3         2       12:19:57         
+Position  Express2     Bus21    normal         1         6                   3        13       12:19:57         
+Position  Express2     Bus22    normal         4         6                   3        57       12:19:59         
+Position  Express2     Bus23    normal         4         6                   3        65       12:20:00         
+Position  Express2     Bus21    normal         2         6                   3        95       12:20:00         
+Position  Express2     Bus22    normal         5         6                   3        55       12:20:02         
+Position  Express2     Bus23     light         5         6                   2        95       12:20:03         
+Position  Express2     Bus21    normal         3         6                   3        19       12:20:03         
+Position  Express2     Bus22    normal         6         6                   3        96       12:20:05         
+Position  Express2     Bus23     light         6         6                   1        56       12:20:05         
+Position  Express2     Bus23     light         1         6                   1         5       12:20:06         
+Position  Express2     Bus21    normal         4         6                   3        25       12:20:06         
+Position  Express2     Bus23    normal         2         6                   3        68       12:20:07         
+Position  Express2     Bus22    normal         1         6                   3        27       12:20:08         
+Position  Express2     Bus21     heavy         5         6                   4        12       12:20:09         
+Position  Express2     Bus23    normal         3         6                   3        65       12:20:10         
+Position  Express2     Bus22    normal         2         6                   3        21       12:20:11         
+Position  Express2     Bus23    normal         4         6                   3        47       12:20:13         
+Position  Express2     Bus21     light         6         6                   3        85       12:20:13         
+Accident  Express2     Bus21                   6                                               12:20:13         
+Position  Express2     Bus22     light         3         6                   2        11       12:20:14         
+Position  Express2     Bus22    normal         4         6                   3        65       12:20:16         
+Position  Express2     Bus23    normal         5         6                   3         4       12:20:16         
+Position  Express2     Bus22    normal         5         6                   3        86       12:20:19         
+Position  Express2     Bus23     light         6         6                   2         0       12:20:19         
+Position  Express2     Bus22    normal         6         6                   3        92       12:20:22 

@@ -1,0 +1,24 @@
+Call One : 
+
+Sams-MacBook-Pro:p2 samcarroll$ ./objs/x64Darwin17clang9.0/PassengerSubscriber Express2 4 3
+
+Waiting for the bus...
+
+Getting on Bus21 at 12:19:20, normal, 5 stops left
+Arriving at stop #5, at 12:19:23, normal, 4 stops remaining
+Arriving at stop #6, at 12:19:26, normal, 3 stops remaining
+Arriving at stop #1, at 12:19:29, normal, 2 stops remaining
+Arriving at stop #2, at 12:19:32, normal, 1 stops remaining
+Arriving at stop #2, at 12:19:32, Accident, 1 stops remaining
+Arriving at destination by Bus21 at 12:19:45
+
+Call Two :
+
+Sams-MacBook-Pro:p2 samcarroll$ ./objs/x64Darwin17clang9.0/PassengerSubscriber Express1 3 2
+
+Waiting for the bus...
+
+Getting on Bus11 at 12:19:16, light, 3 stops left
+Arriving at stop #4, at 12:19:17, normal, 2 stops remaining
+Arriving at stop #1, at 12:19:19, normal, 1 stops remaining
+Arriving at destination by Bus11 at 12:19:21
